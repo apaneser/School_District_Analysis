@@ -20,14 +20,14 @@ school summary after editing out 9th graders
 ![new summary](Resources/school_summary.PNG)
 
 top schools before
-![old summary](Resources/district_summary_before.PNG)
+![old summary](Resources/top_schools_before.PNG)
 
 top schools after
-![new summary](Resources/district_summary_after.PNG)
+![new summary](Resources/top_schools_after.PNG)
 
 
-- 
--
+- In the district summary, the scores have gotten very slightly lower after removing the 9th graders by 0.3 to 0.5 points/percentages
+- In the school summary, the changes of thomas high school have changed slightly as well, often only changing by a few decimal points
 -
 -
 -
