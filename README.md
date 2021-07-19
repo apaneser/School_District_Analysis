@@ -44,7 +44,7 @@ scores by school type after
 ![new summary](Resources/school_type_after.PNG)
 
 
-- In the district summary, the scores have gotten very slightly lower after removing the 9th graders by 0.3 to 0.5 points/percentages
+- In the district summary, the scores have gotten very slightly lower after removing the 9th graders by 0 to 0.3 points/percentages
 - In the school summary, the changes of thomas high school have changed slightly as well, often only changing by a few decimal points
 - after the changes, thomas high school still remains the 2nd top school on the list, the overall percentage changing by about 0.3%
 - The math and reading scores by grade graph does not include grades for 9th graders in Thomas High school after the changes
